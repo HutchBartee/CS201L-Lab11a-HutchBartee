@@ -1,4 +1,3 @@
-
 The factorial of 4 is 24
 
 The factorial of 15 is 1307674368000
@@ -25,11 +24,11 @@ The string tacocat is a palindrome
 
 The string goroog is not a palindrome
 
-The sum of the values: 1 2 3 4 5 6 7 8 9 10  is 55
+The sum of values: 1 2 3 4 5 6 7 8 9 10 is 55
 
-The sum of the values: 5  is 5
+The sum of values: 5 is 5
 
-The sum of the values: 5 6 7  is 18
+The sum of values: 5 6 7 is 18
 
 The string thestring in reverse is: gnirtseht
 
@@ -38,3 +37,4 @@ The string abcdef in reverse is: fedcba
 The string 123456 in reverse is: 654321
 
 The string d in reverse is: d
+
